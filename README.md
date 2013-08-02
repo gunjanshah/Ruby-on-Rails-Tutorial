@@ -2,4 +2,4 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Shaurya2Win!] (http://www.github.com/gunjanshah)
+by [Gunjan Shah] (http://www.github.com/gunjanshah)
